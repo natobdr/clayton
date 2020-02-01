@@ -1,0 +1,568 @@
+Uri: http://modelo-035.ep.site.com.br/
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\index.htm
+Content Type: text/html
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/6/2014/06/fav_easypress.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\6\2014\06\fav_easypress.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/feed/
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\feed\index.htm
+Content Type: text/xml
+
+Uri: http://modelo-035.ep.site.com.br/feed/atom/
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\feed\atom\index.htm
+Content Type: application/atom+xml
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/bootstrap/css/bootstrap.css
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\bootstrap\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/bootstrap/css/responsive.css
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\bootstrap\css\responsive.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/css/camera.css
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\css\camera.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/style.css
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\style.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/comments/feed/
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\comments\feed\index.htm
+Content Type: text/xml
+
+Uri: http://modelo-035.ep.site.com.br/home/feed/
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\home\feed\index.htm
+Content Type: text/xml
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/formidable/css/formidablepro.css?ver=14028
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\formidable\css\formidablepro.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/flexslider.css?ver=2.0
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\cherry-plugin\lib\js\FlexSlider\flexslider.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/owl.carousel.css?ver=1.24
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\cherry-plugin\lib\js\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/owl.theme.css?ver=1.24
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\cherry-plugin\lib\js\owl-carousel\owl.theme.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/cherry-plugin/includes/css/cherry-plugin.css?ver=1.2
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\cherry-plugin\includes\css\cherry-plugin.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_easy/css/easy_full_mode.css?ver=1.001
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_easy\css\easy_full_mode.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/common/css/animate.css/animate.css?ver=1.0.0
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\common\css\animate.css\animate.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_easy/css/scb_animate.css?ver=1.128
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_easy\css\scb_animate.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_mp_shortcodes/css/scb_mp_shortcodes.css?ver=1.074
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_mp_shortcodes\css\scb_mp_shortcodes.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/ultimate-branding/ultimate-branding-files/modules/custom-admin-bar-files/css/general.css?ver=1.0
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\ultimate-branding\ultimate-branding-files\modules\custom-admin-bar-files\css\general.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/style.css?ver=1.9.5
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\style.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/css/scb_nav_cherry.css?ver=1.9.3
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\css\scb_nav_cherry.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/main-style.css?ver=1.9.7
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\main-style.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/css/magnific-popup.css?ver=0.9.3
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/common/bootstrap/bs3/bs3.css?ver=3.3.0
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\common\bootstrap\bs3\bs3.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_whmcsOrder/css/css.css?ver=1.1
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_whmcsOrder\css\css.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_whmcsOrder/css/cssModelsNavigation.css?ver=1.1
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_whmcsOrder\css\cssModelsNavigation.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_theme_customizer/css/scb_customize_admin_frontend.css?ver=1.0
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_theme_customizer\css\scb_customize_admin_frontend.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/theme_style.css?ver=1.07
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\theme_style.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/motopress-content-editor/bootstrap/bootstrap-grid.min.css?ver=2.0.1
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\motopress-content-editor\bootstrap\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/motopress-content-editor/includes/css/theme.css?ver=1.01
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\motopress-content-editor\includes\css\theme.css
+Content Type: text/css
+
+Uri: http://modelo-035.ep.site.com.br/wp-includes/wlwmanifest.xml
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: http://modelo-035.ep.site.com.br/scb-wp-json
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\scb-wp-json.json
+Content Type: application/json
+
+Uri: http://modelo-035.ep.site.com.br/common/jquery/2.0.3/jquery.min.js?ver=2.0.3
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\common\jquery\2.0.3\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_easy/js/scb_animate.js?ver=1.128
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_easy\js\scb_animate.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/common/jquery/waypoints/lib/jquery.waypoints.min.js?ver=1.128
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\common\jquery\waypoints\lib\jquery.waypoints.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_mp_shortcodes/js/scb_comum.js?ver=1.074
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_mp_shortcodes\js\scb_comum.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_mp_shortcodes/js/row_back_color.js?ver=1.074
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_mp_shortcodes\js\row_back_color.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/jquery-migrate-1.2.1.min.js?ver=1.2.1
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\jquery-migrate-1.2.1.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-includes/js/swfobject.js?ver=2.2-20120417
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-includes\js\swfobject.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/modernizr.js?ver=2.0.6
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\modernizr.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/jflickrfeed.js?ver=1.0
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\jflickrfeed.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/cherry-plugin/lib/js/jquery.easing.1.3.js?ver=1.3
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\cherry-plugin\lib\js\jquery.easing.1.3.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/custom.js?ver=1.0
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\custom.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/bootstrap/js/bootstrap.min.js?ver=2.3.0
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\bootstrap\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/cherry-plugin/lib/js/elasti-carousel/jquery.elastislide.js?ver=1.2
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\cherry-plugin\lib\js\elasti-carousel\jquery.elastislide.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/common/angularjs/1.2.26/angular.min.js?ver=1.2.26
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\common\angularjs\1.2.26\angular.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_easy/ng/angular-locale_pt-br.js?ver=4.2.2
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_easy\ng\angular-locale_pt-br.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/common/angularjs/ng-slider/dist/ng-slider.min.mbm.js?ver=2.1.5
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\common\angularjs\ng-slider\dist\ng-slider.min.mbm.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_easy/ng/app.js?ver=1.128
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_easy\ng\app.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/common/angularjs/img-src-ondemand/dist/img-src-ondemand.js?ver=1.0
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\common\angularjs\img-src-ondemand\dist\img-src-ondemand.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_whmcsOrder/ng/controllers/app.js?ver=1.1
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_whmcsOrder\ng\controllers\app.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_whmcsOrder/ng/controllers/modal.js?ver=1.1
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_whmcsOrder\ng\controllers\modal.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/motopress-content-editor/includes/js/mp-google-charts.js?ver=2.0.1
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\motopress-content-editor\includes\js\mp-google-charts.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/jquery.mobile.customized.min.js
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\jquery.mobile.customized.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/header-main-img2.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\header-main-img2.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/icon_01.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\icon_01.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/icon_03.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\icon_03.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/icon_02.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\icon_02.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/icon_04.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\icon_04.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/icon_05.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\icon_05.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/icon_06.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\icon_06.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/icon_07.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\icon_07.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/icon_08.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\icon_08.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/home-IMG-04.jpg
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\home-IMG-04.jpg
+Content Type: image/jpeg
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/home-IMG-05.jpg
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\home-IMG-05.jpg
+Content Type: image/jpeg
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/home-IMG-06.jpg
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\home-IMG-06.jpg
+Content Type: image/jpeg
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/logo-011.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\logo-011.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/logo-021.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\logo-021.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/logo-031.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\logo-031.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/logo-041.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\logo-041.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/logo-051.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\logo-051.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/logo-061.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\logo-061.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/home-IMG-07.jpg
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\home-IMG-07.jpg
+Content Type: image/jpeg
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/home-IMG-08.jpg
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\home-IMG-08.jpg
+Content Type: image/jpeg
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/home-IMG-09.jpg
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\home-IMG-09.jpg
+Content Type: image/jpeg
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/home-IMG-10.jpg
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\home-IMG-10.jpg
+Content Type: image/jpeg
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/home-IMG-11.jpg
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\home-IMG-11.jpg
+Content Type: image/jpeg
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/formidable/images/ajax_loader.gif
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\formidable\images\ajax_loader.gif
+Content Type: image/gif
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/icon-facebook.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\icon-facebook.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/icon-google.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\icon-google.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/icon-twitter.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\icon-twitter.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/icon-instagram.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\icon-instagram.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/icon-youtube.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\icon-youtube.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/uploads/sites/87642/2015/07/rodape-img-01.jpg
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\uploads\sites\87642\2015\07\rodape-img-01.jpg
+Content Type: image/jpeg
+
+Uri: http://modelo-035.ep.site.com.br/wp-includes/js/comment-reply.min.js?ver=4.2.2
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-includes\js\comment-reply.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/superfish.js?ver=1.5.3
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\superfish.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/jquery.mobilemenu.js?ver=1.1
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\jquery.mobilemenu.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/jquery.magnific-popup.min.js?ver=0.9.3
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/jquery.flexslider-min.js?ver=2.1
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\cherry-plugin\lib\js\FlexSlider\jquery.flexslider-min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/jplayer.playlist.min.js?ver=2.3.0
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\jplayer.playlist.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/jquery.jplayer.min.js?ver=2.4.0
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\jquery.jplayer.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/jquery.zaccordion.min.js?ver=2.1.0
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\jquery.zaccordion.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/camera.min.js?ver=1.3.4
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\camera.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/jquery.debouncedresize.js?ver=1.0
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\jquery.debouncedresize.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/jquery.ba-resize.js?ver=1.1
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\jquery.ba-resize.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/js/jquery.isotope.js?ver=1.5.25
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\js\jquery.isotope.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/cherry-plugin/includes/js/cherry-plugin.js?ver=1.2
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\cherry-plugin\includes\js\cherry-plugin.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_easy/js/ui-bootstrap-tpls-0.11.2.min.js?ver=0.11.2
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_easy\js\ui-bootstrap-tpls-0.11.2.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_easy/js/sortable.js?ver=1.00
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_easy\js\sortable.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/formidable/js/formidable.min.js?ver=2.05.01
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\formidable\js\formidable.min.js
+Content Type: text/javascript
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/blank.gif
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\blank.gif
+Content Type: image/gif
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/camera_skins.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\camera_skins.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/formidable/fonts/s11-fp.eot
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\formidable\fonts\s11-fp.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/formidable/fonts/s11-fp.woff
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\formidable\fonts\s11-fp.woff
+Content Type: text/plain
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/formidable/fonts/s11-fp.ttf
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\formidable\fonts\s11-fp.ttf
+Content Type: text/plain
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/formidable/fonts/s11-fp.svg
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\formidable\fonts\s11-fp.svg
+Content Type: image/svg+xml
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/formidable/pro/images/chosen-sprite.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\formidable\pro\images\chosen-sprite.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/formidable/pro/images/chosen-sprite2x.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\formidable\pro\images\chosen-sprite2x.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/images/bg_direction_nav.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\cherry-plugin\lib\js\FlexSlider\images\bg_direction_nav.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/grabbing.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\cherry-plugin\lib\js\owl-carousel\grabbing.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/AjaxLoader.gif
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\cherry-plugin\lib\js\owl-carousel\AjaxLoader.gif
+Content Type: image/gif
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/cherry-plugin/includes/images/quotes.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\cherry-plugin\includes\images\quotes.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/cherry-plugin/includes/images/nav.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\cherry-plugin\includes\images\nav.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/arrows-ffffff.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\arrows-ffffff.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/black-opacity-60.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\black-opacity-60.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/quotes.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\quotes.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/magnify-alt.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\magnify-alt.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/bg_direction_nav.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\bg_direction_nav.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/up-arrow.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\up-arrow.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/jp_spacer.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\jp_spacer.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/jp_sprite.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\jp_sprite.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/jp_load.gif
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\jp_load.gif
+Content Type: image/gif
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/jp_playlist_li_cur.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\jp_playlist_li_cur.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/jp_play.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\jp_play.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/loading_32.gif
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\loading_32.gif
+Content Type: image/gif
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/CherryFramework/images/loading_bg_32.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\CherryFramework\images\loading_bg_32.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/images/cat-arrow.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\images\cat-arrow.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/images/icons/facebook-hover.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\images\icons\facebook-hover.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/images/icons/twitter-hover.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\images\icons\twitter-hover.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/images/icons/google+-hover.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\images\icons\google -hover.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/images/icons/pinterest-hover.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\images\icons\pinterest-hover.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/images/icons/instagram-hover.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\images\icons\instagram-hover.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/images/zoom.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\images\zoom.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/images/loading.gif
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\images\loading.gif
+Content Type: image/gif
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/themes/t035/images/wifi.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\themes\t035\images\wifi.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_whmcsOrder/imgs/fundo.jpg
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_whmcsOrder\imgs\fundo.jpg
+Content Type: image/jpeg
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/scb_whmcsOrder/imgs/passos_fundo.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\scb_whmcsOrder\imgs\passos_fundo.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/motopress-content-editor/images/ce/loading.gif
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\motopress-content-editor\images\ce\loading.gif
+Content Type: image/gif
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/motopress-content-editor/images/social-buttons-32x32.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\motopress-content-editor\images\social-buttons-32x32.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/motopress-content-editor/images/social-buttons-64x64.png
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\motopress-content-editor\images\social-buttons-64x64.png
+Content Type: image/png
+
+Uri: http://modelo-035.ep.site.com.br/wp-content/plugins/motopress-content-editor/images/accordion.png?ver=1.4.7
+File Name: C:\wamp64\www\modelo-035.ep.site.com.br\wp-content\plugins\motopress-content-editor\images\accordion.png
+Content Type: image/png
+

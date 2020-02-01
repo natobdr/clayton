@@ -1,0 +1,123 @@
+#wpadminbar #wp-admin-bar-scb_activate_quick_mode .ab-item:before {
+content: '\f118';
+top: 2px;
+color: #ffffff;
+/*color: rgb(16, 255, 0);*/
+}
+
+#wpadminbar #wp-admin-bar-scb_activate_quick_mode a.ab-item,
+#wpadminbar #wp-admin-bar-scb_activate_quick_mode a{
+background: #60BAE2;
+color: #ffffff;
+}
+#wpadminbar .ab-top-menu>li#wp-admin-bar-scb_activate_quick_mode:hover>.ab-item,
+#wpadminbar #wp-admin-bar-scb_activate_quick_mode a:hover{
+background: #31A2D5;
+color: #ffffff;
+}
+
+.motopress_edit_link{display:none}
+
+/********** fix - spinner media uploader BG - QMC*/
+.scb-is-qm .attachment-info .thumbnail,
+.scb-is-qm .attachment-preview .thumbnail {
+background: none;
+}
+.scb-is-qm .media-frame-content .thumbnail:after {
+background: none;
+height: 0;
+}
+
+.scb-is-qm .media-frame-content img{
+    max-width: inherit;
+}
+
+/* .scb-is-qm .media-frame-content select.attachment-filters, */
+.scb-is-qm .media-sidebar a.delete-attachment,
+.scb-is-qm .media-sidebar form.compat-item,
+.scb-is-qm .media-sidebar h3,
+.scb-is-qm .media-sidebar label.setting span,
+.scb-is-qm .media-sidebar label.setting input,
+.scb-is-qm .media-sidebar label.setting textarea,
+.scb-is-qm .media-sidebar .attachment-display-settings div.setting,
+.scb-is-qm .media-sidebar .attachment-display-settings input.link-to-custom,
+.scb-is-qm .media-sidebar .attachment-display-settings select[data-user-setting="align"],
+.scb-is-qm .media-sidebar .attachment-display-settings select[data-user-setting="urlbutton"],
+.scb-is-qm .media-sidebar .edit-attachment{
+    display: none;
+}
+
+.scb-is-qm .media-sidebar .attachment-info {
+margin-bottom: -25px;
+}
+
+
+
+.scb-is-qm .media-menu a,  
+.scb-is-qm .media-menu div.separator {
+display: none;
+border: none !important;
+}
+
+.scb-is-qm .screen-reader-text {
+  display: none;
+}
+
+.scb-is-qm .media-frame-content .thumbnail img {
+  padding: 0;
+}
+
+.scb-is-qm .media-frame-content .thumbnail {
+  margin: 0;
+}
+
+/*hide edit with MP button, advanced mode*/
+div#poststuff #motopress-ce-btn, #wp-admin-bar-motopress-edit {
+display: none;
+}
+
+/*Hide site origin*/
+.wp-admin form#myblogs>.form-table, .wp-admin form#myblogs>.submit {
+  display: none;
+}
+
+.formidable_page_formidable-settings .general_settings.metabox-holder.tabs-panel,
+.formidable_page_formidable-settings .frm_uninstall,
+.formidable_page_formidable-settings .frm_pro_installed,
+.formidable_page_formidable-settings .frm_aff_link,
+
+.shfs-sidebar, .shfs-follow, #blogsynthesisshfswidget, label[for="blogsynthesisshfswidget-hide"],
+.wp-admin #welcome-panel
+{display: none !important;}
+
+
+/*oculta formidable styling buttons, pois o EP estiliza todos botões em um só lugar*/
+#frm_styling_form li#buttons-style {
+    display: none;
+}
+
+/*
+.scb-is-qm .media-sidebar .attachment-display-settings select.size{
+    display: block;
+}
+*/
+
+
+/*
+.row_back_color_wrapper [class*="mp-span"] {
+margin-left: 2.56%;
+}
+*/
+/*fix row_back_color - qmc*/
+/*
+.row-mouse-enter.row_back_color_wrapper [class*="mp-span"] {
+margin-left: 2%;
+} 
+
+
+[class*="mp-span"].row_back_color_wrapper,
+[class*="mp-span"].row_back_color_wrapper [class*="mp-span"]:first-child {
+margin-left: 0;
+}
+*/
+

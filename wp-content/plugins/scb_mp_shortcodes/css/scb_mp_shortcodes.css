@@ -1,0 +1,66 @@
+/* Row back color
+-------------------------------------------------------------- */
+/*.fullwidth-row-common:before {position: absolute;content: "";top: 0;bottom: 0;left: -20000px;right: -20000px;}*/
+.fullwidth-row-common:before {position: absolute;content: "";top: 0;bottom: 0;}
+.fullwidth-row-1:before {background: #fff;}
+.fullwidth-row-2:before {background: #eee;}
+.fullwidth-row-3:before {background: #ddd;}
+.fullwidth-row-4:before {background: #ccc;}
+.fullwidth-row-5:before {background: #bbb;}
+.fullwidth-row-6:before {background: #aaa;}
+.fullwidth-row-7:before {background: #999;}
+.fullwidth-row-8:before {background: #888;}
+.fullwidth-row-9:before {background: #777;}
+.fullwidth-row-10:before {background: #666;}
+.fullwidth-row-11:before {background: #555;}
+.fullwidth-row-12:before {background: #444;}
+.fullwidth-row-13:before {background: #333;}
+.fullwidth-row-14:before {background: #222;}
+.fullwidth-row-15:before {background: #111;}
+.fullwidth-row-16:before {background: #000;}
+.fullwidth-row-custom-1:before {background: #3E70A2;}
+.fullwidth-row-custom-2:before {background: #d81d1f;}
+
+
+
+/* Image Effect
+-------------------------------------------------------------- */
+.shadow_frame{display:inline-block;position:relative;}
+.shadow_frame img{display:block;margin:0 auto;position:relative;}
+.shadow_frame .image_shadow{min-height:8px;}
+.image_shadow {width:100%}
+.transparent_frame{position:relative;display:inline-block;}
+.transparent_border{
+    position:absolute;
+    top:0;
+    left:0;
+    border:5px solid #000;
+    opacity:.15;
+    width:calc(100% - 10px);
+    height:calc(100% - 10px);
+    pointer-events: none;/*enable events pass throught*/
+}
+.framed{
+    background:#f7f7f7;
+    border:1px solid #fff;
+    padding:6px; 
+    width:calc(100% - 14px);
+}
+.img100{width:100%}
+
+/*oculta parte campos dependentes*/
+input[name="d_testi"],
+input[name="d_portfolio"] ,
+input[name="d_post"] ,
+input[name="d_services"] ,
+input[name="d_our-team"] 
+{visibility: hidden;position: absolute;}
+
+/*
+input[name="d_testi"] ~ select hr {
+display: none;
+}
+*/
+
+.motopress-posts-grid-thumbnail.scb-post-half-size{width: 50%;}
+.motopress-posts-grid-thumbnail.scb-post-30-size{width: 30%;}

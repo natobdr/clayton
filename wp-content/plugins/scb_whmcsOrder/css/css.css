@@ -1,0 +1,276 @@
+
+
+#scb_whmcsOrderModalContent {
+    border-radius: 5px;
+    color: #46A0C0;
+    font-family: Arial, Helvetica, sans-serif !important;
+    padding: 20px 30px 0px 30px;
+    background: url("../imgs/fundo.jpg") top center;
+}
+
+.modal-backdrop, .modal-backdrop.fade.in {
+    opacity: 0.9;
+}
+
+@media (max-width: 616px) {
+    .scb_whmcsOrderModal {
+        position: fixed;
+        top: 20px;
+        left: 20px;
+        right: 20px;
+        width: auto;
+        margin: 0;
+    }
+
+    .scb_whmcsOrderModalPasso1 .col-xs-12 {
+        width: 100%;
+    }
+
+    #scb_whmcsOrderModalContent .loginBox {
+        margin-right: -15px;
+    }
+
+    #scb_whmcsOrderModalContent .sigupBox {
+        margin-left: -15px;
+    }
+
+}
+
+@media (min-width: 617px) {
+    .scb_whmcsOrderModal {
+        position: fixed;
+        top: 10%;
+        left: 50%;
+        z-index: 1050;
+        width: 560px;
+        margin-left: -280px;
+        background-color: #fff;
+        border: 1px solid #999;
+        border: 1px solid rgba(0, 0, 0, 0.3);
+        *border: 1px solid #999;
+        -webkit-border-radius: 6px;
+        -moz-border-radius: 6px;
+        border-radius: 6px;
+        -webkit-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+        -moz-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+        box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+        -webkit-background-clip: padding-box;
+        -moz-background-clip: padding-box;
+        background-clip: padding-box;
+        outline: none;
+    }
+
+    .scb_whmcsOrderModalPasso1 .col-xs-12 {
+        width: 50%;
+    }
+
+}
+
+
+#scb_whmcsOrderModalContent input[type="radio"] {
+    margin: 0 !important;
+}
+
+#scb_whmcsOrderModalContent input:focus {
+    background: #FFF !important;
+}
+
+#scb_whmcsOrderModalContent .checkbox-inline {
+    font-size: 14px !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    height: 20px !important;
+    line-height: 20px !important;
+    padding-left: 0px !important;
+}
+
+/*#scb_whmcsOrderModalPasso1 {*/
+/*width: 662px;*/
+/*}*/
+
+/*#scb_whmcsOrderModalPasso2 {*/
+/*width: 530px;*/
+/*}*/
+
+/*#scb_whmcsOrderModalPasso3 {*/
+/*width: 530px;*/
+/*}*/
+
+.scb_whmcsOrderInputError {
+    border-color: red !important;
+}
+
+.btn-scb-whmcsOrder {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: #46A0C0;
+    border-color: #3089A8;
+    color: #fff !important;
+}
+
+.btn-scb-whmcsOrder[disabled] {
+    pointer-events: none;
+    cursor: not-allowed;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-color: #9EC6D5;
+    border-color: #81A9B8;
+    color: #D6E4EA !important;
+}
+
+#scb_whmcsOrderModalContent .loginBox {
+    background: rgba(255, 255, 255, .8);
+    margin-bottom: 20px;
+    min-height: 230px;
+    border-radius: 10px;
+    margin-right: -10px;
+    margin-left: -15px;
+    padding: 10px;
+}
+
+#scb_whmcsOrderModalContent .sigupBox {
+    background: rgba(255, 255, 255, .8);
+    margin-bottom: 20px;
+    min-height: 280px;
+    border-radius: 10px;
+    margin-right: -15px;
+    margin-left: -10px;
+    padding: 10px;
+}
+
+#scb_whmcsOrderModalContent .chooseDomainBox {
+    background: rgba(255, 255, 255, .8);
+    min-height: 280px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#scb_whmcsOrderModalContent .end {
+    background: rgba(255, 255, 255, .8);
+    min-height: 280px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#scb_whmcsOrderModalContent .textContainer {
+    padding: 10px;
+}
+
+#scb_whmcsOrderModalContent .modal-backdrop, #scb_whmcsOrderModalContent .modal-backdrop.fade.in {
+    opacity: 0.93;
+}
+
+#scb_whmcsOrderModalContent .close {
+    margin: -20px -25px 0px 0px;
+    margin: -39px -49px 0px 0px;
+    text-shadow: 0px 0px 0px;
+    color: #fff;
+    font-size: 25px;
+    font-weight: normal;
+    font-family: initial;
+    background: #46A0C0;
+    border-radius: 55px;
+    border: 2px solid #F3F2EE;
+    padding: 5px 10px 5px 10px;
+    opacity: 1;
+}
+
+#scb_whmcsOrderModalContent .passos {
+    height: 51px;
+    width: 230px;
+    background: url("../imgs/passos_fundo.png") center center;
+    padding-top: 4px;
+    margin: 0px auto 20px auto;
+}
+
+
+#scb_whmcsOrderModalContent .passos > div {
+    height: 46px;
+    width: 46px;
+    float: left;
+    margin-left: 3px;
+}
+
+#scb_whmcsOrderModalContent .passos > div:nth-child(2) {
+    margin-left: 44px;
+}
+
+#scb_whmcsOrderModalContent .passos > div:nth-child(3) {
+    margin-left: 44px;
+}
+
+.scb_whmcsOrderReturnForm {
+    float: left;
+    color: rgb(205, 9, 9);
+    width: 60%;
+    text-align: left;
+}
+
+.scb_whmcsOrderloader {
+    position: absolute;
+    left: 40%;
+}
+
+#appWhmcsOrderButtonOpenModal {
+    background-color:#F69522 ;
+    border: 1px solid #F69522;
+    bottom: 0;
+    color: #FFF;
+    font-size: 13px;
+    min-height:40px;
+    text-align: center;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+#appWhmcsOrder .popover {
+    position: fixed;
+    width: 270px;
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+#appWhmcsOrder .popover h4 {
+    color: rgb(65, 155, 190);
+    display: block;
+    font-family: 'Open Sans', sans-serif  !important;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    height: 30px;
+    line-height: 30px;
+    margin: 0px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    text-shadow: none;
+    text-transform: none;
+    white-space: normal;
+}
+
+
+
+
+

@@ -1,0 +1,69 @@
+
+    /* Configura os títulos no rodapé */
+    .footer-widgets >div >div >h4 {
+        color: #ffffff;
+        font-size: 19px;
+        font-weight: normal;
+        font-family: -webkit-body;
+    }
+    
+    /* Configura mouse sobre em botões de mídias sociais */
+    .social .social_li .social_link:hover .social_ico {
+        border-color: #C9593A;
+    }
+    
+    
+    
+/* Cor de fundo dos blocos fullwidth-row  */ 
+    .fullwidth-row-1:before {background: #fff;}
+    .fullwidth-row-2:before {background: #eee;}
+    .fullwidth-row-3:before {background: #ddd;}
+    .fullwidth-row-4:before {background: #ccc;}
+    .fullwidth-row-5:before {background: #bbb;}
+    .fullwidth-row-6:before {background: #aaa;}
+    .fullwidth-row-7:before {background: #999;}
+    .fullwidth-row-8:before {background: #888;}
+    .fullwidth-row-9:before {background: #777;}
+    .fullwidth-row-10:before {background: #666;}
+    .fullwidth-row-11:before {background: #555;}
+    .fullwidth-row-12:before {background: #444;}
+    .fullwidth-row-13:before {background: #333;}
+    .fullwidth-row-14:before {background: #222;}
+    .fullwidth-row-15:before {background: #111;}
+    .fullwidth-row-16:before {background: #000;}
+
+
+
+/* Blocos fullwidth-row com linhas divisórias - features-row  */ 
+
+.features-row [class*="span"]:after {
+right: -1px;
+top: 0px;
+bottom: 0px;
+background: #e0e0e0;
+width: 1px;
+}
+
+
+
+/*Carousel_owl - Permite imagens terem tamanhos definidos pelo usuário*/
+.owl-carousel .item figure a img {width:auto;}
+
+
+/***************** RESPONSIVE CSS ************************/
+
+
+/*
+@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) { 
+@media only screen and (orientation : portrait) {
+h3, .motopress-text-obj h3, .motopress-text-obj h3 span {font-size: 1.0em; line-height: 100%;}
+    h4, .motopress-text-obj h4, .motopress-text-obj h4 span {font-size: 0.9em; line-height: 100%;}
+    h5, .motopress-text-obj h5, .motopress-text-obj h5 span {font-size: 0.8em; line-height: 100%;}
+*/
+@media only screen and (max-width: 768px) { 
+    h1, .motopress-text-obj h1, .motopress-text-obj h1 span {font-size: 9vw; line-height: 100%;}
+    h2, .motopress-text-obj h2, .motopress-text-obj h2 span {font-size: 8vw; line-height: 100%;}
+    
+} 
+

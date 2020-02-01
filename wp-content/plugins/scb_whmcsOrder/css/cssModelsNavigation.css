@@ -1,0 +1,190 @@
+#appModelsNavigationOpen {
+    background-color: #000;
+    border: 1px solid #000;
+    border-right: 1px solid #FFF;
+    color: #FFF;
+    font-size: 13px;
+    min-height: 40px;
+    text-align: center;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif !important;
+
+}
+
+#modelsList > div {
+    margin: 15px 0;
+}
+
+.scb_modelsNavigation {
+    border: none !important;
+    box-shadow: none !important;
+    background-color: transparent;
+    width: 100% !important;
+    margin-left: 0 !important;
+    border-radius: 0;
+    transform: translate(-50%, -50%);
+    left: 50% !important;
+    top: 50% !important;
+}
+
+.scb_modelsNavigation .btClose {
+    font-size: 20px;
+    font-family: Arial,sans-serif;
+    top: 15px;
+    position: absolute;
+    cursor: pointer;
+    color: white !important;
+    background-color: #F69522;
+    padding: 12px 15px 12px 15px;
+}
+
+.scb_modelsNavigation button {
+    background-color: transparent;
+    border: none;
+    outline:none;
+}
+
+.scb_modelsNavigationBackdrop {
+    opacity: 0.95;
+}
+
+.scb_modelsNavigation .modal-lg {
+    border: none !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+    width: 100% !important;
+    margin: 0px auto !important;
+}
+
+.scb_modelsNavigation .modal-content {
+    border: none !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+
+}
+
+
+/* fix IE11 responsive image*/
+.img-overlay img{
+    width: 100% ;
+}
+
+
+.modelInfo{
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) !important;
+    position: absolute;
+    z-index: 3;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 12px !important;
+    line-height: 1.5 !important;
+    color: rgb(255, 255, 255) !important;
+
+}
+
+.modelInfo button {
+    background-color: rgb(246, 149, 34) !important;
+    border: 1px solid rgb(246, 149, 34) !important;
+    padding: 7px 10px 6px 10px !important;
+    border-radius: 0px !important;
+    margin-top: 10px;
+    color: rgb(255, 255, 255) !important;
+    -webkit-backface-visibility: hidden !important; /* Chrome, Safari, Opera */
+    backface-visibility: hidden !important;
+}
+
+
+.img-overlay {
+    position: relative;
+    max-width: 300px;
+    margin: 0 auto;
+    outline: 1px solid #8C8E90;
+    table-layout: fixed;
+    display: table;
+}
+
+
+
+.overlayModel {
+    top: 0;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    height: 100%;
+    table-layout: fixed;
+}
+
+/* columns of same height styles */
+
+.row-full-height {
+    height: 100%;
+}
+
+.col-full-height {
+    height: 100%;
+    vertical-align: middle;
+}
+
+.row-same-height {
+    display: table;
+    width: 100%;
+    /* fix overflow */
+    table-layout: fixed;
+}
+
+.col-xs-height {
+    display: table-cell;
+    float: none !important;
+}
+
+@media (min-width: 768px) {
+    .col-sm-height {
+        display: table-cell;
+        float: none !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .col-md-height {
+        display: table-cell;
+        float: none !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-lg-height {
+        display: table-cell;
+        float: none !important;
+    }
+}
+
+/*animate*/
+#scb_modelsNavigation .img-overlay div {
+    opacity: 0;
+    transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -webkit-transition: opacity .2s ease-in-out;
+
+}
+
+#scb_modelsNavigation .img-overlay img, #scb_modelsNavigation .img-overlay span,#scb_modelsNavigation .img-overlay button {
+    -webkit-backface-visibility: hidden;
+    -webkit-font-smoothing: antialiased;
+    -webkit-transform: rotate(0);
+    -moz-transform: rotate(0);
+    transform: rotate(0);
+    -webkit-filter: blur(0);
+}
+
+.fadeOnBt {
+    opacity: 1 !important;
+}
+
+.fadeOnOverlay {
+    opacity: 0.7 !important;
+}
+
+
+

@@ -1,0 +1,12 @@
+
+.scb_hidden_after:after {
+        visibility: hidden !important;
+    }
+.scb_show_after:after {
+       visibility: show !important;
+    }
+    
+div.motopress-more-handler.motopress-more-handler-disabled.ui-draggable {
+    display: none;
+}
+
